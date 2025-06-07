@@ -1,3 +1,5 @@
+
+// script.js
 const container = document.querySelector('.container');
 const registerBtn = document.getElementById('register');
 const loginBtn = document.getElementById('login');
